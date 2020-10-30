@@ -1,0 +1,21 @@
+202010-29 22:33:29 tn.esprit.AfficheLog.getAllPrducts(AfficheLog.java:12):12 - In getAllPrducts() : 
+202010-29 22:33:29 tn.esprit.AfficheLog.getAllPrducts(AfficheLog.java:13):13 - Je vais lancer la divsion.
+202010-29 22:33:29 tn.esprit.AfficheLog.getAllPrducts(AfficheLog.java:19):19 - Erreur dans getAllPrducts() : java.lang.ArithmeticException: / by zero
+202010-29 23:26:14 tn.esprit.AfficheLog.getAllPrducts(AfficheLog.java:12):12 - In getAllPrducts() : 
+202010-29 23:26:14 tn.esprit.AfficheLog.getAllPrducts(AfficheLog.java:13):13 - Je vais lancer la divsion.
+202010-29 23:26:14 tn.esprit.AfficheLog.getAllPrducts(AfficheLog.java:19):19 - Erreur dans getAllPrducts() : java.lang.ArithmeticException: / by zero
+202010-29 23:28:47 tn.esprit.AfficheLog.getAllPrducts(AfficheLog.java:12):12 - In getAllPrducts() : 
+202010-29 23:28:47 tn.esprit.AfficheLog.getAllPrducts(AfficheLog.java:19):19 - Erreur dans getAllPrducts() : java.lang.ArithmeticException: / by zero
+202010-29 23:30:50 tn.esprit.AfficheLog.getAllPrducts(AfficheLog.java:19):19 - Erreur dans getAllPrducts() : java.lang.ArithmeticException: / by zero
+202010-30 00:01:52 tn.esprit.Calcul.calculerDiff(Calcul.java:24):24 - In calculerDiff(5, 2)
+202010-30 00:01:52 tn.esprit.Calcul.calculerDiff(Calcul.java:26):26 - Out calculerDiff() : 3
+202010-30 00:01:52 tn.esprit.Calcul.calculerSom(Calcul.java:12):12 - In calculerSom(8, 2)
+202010-30 00:01:52 tn.esprit.Calcul.calculerSom(Calcul.java:14):14 - Out calculerSom() : 10
+202010-30 00:02:08 tn.esprit.Calcul.calculerDiff(Calcul.java:24):24 - In calculerDiff(5, 1)
+202010-30 00:02:08 tn.esprit.Calcul.calculerDiff(Calcul.java:26):26 - Out calculerDiff() : 4
+202010-30 00:02:08 tn.esprit.Calcul.calculerSom(Calcul.java:12):12 - In calculerSom(8, 2)
+202010-30 00:02:08 tn.esprit.Calcul.calculerSom(Calcul.java:14):14 - Out calculerSom() : 10
+202010-30 00:03:27 tn.esprit.Calcul.calculerDiff(Calcul.java:24):24 - In calculerDiff(5, 2)
+202010-30 00:03:27 tn.esprit.Calcul.calculerDiff(Calcul.java:26):26 - Out calculerDiff() : 3
+202010-30 00:03:27 tn.esprit.Calcul.calculerSom(Calcul.java:12):12 - In calculerSom(8, 2)
+202010-30 00:03:27 tn.esprit.Calcul.calculerSom(Calcul.java:14):14 - Out calculerSom() : 10
